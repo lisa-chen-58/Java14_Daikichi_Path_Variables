@@ -8,12 +8,12 @@
 		<version>2.6.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.codingdojo.week3.daikichiroutes</groupId>
-	<artifactId>1_daikichiRoutes</artifactId>
+	<groupId>com.lisa.week3.daikichiPathVariables</groupId>
+	<artifactId>daikichiPathVariables</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>1_daikichiRoutes</name>
-	<description>First Spring Project</description>
+	<name>daikichiPathVariables</name>
+	<description>Daikichi Path Variables Assignment</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>

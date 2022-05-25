@@ -1,10 +1,10 @@
-package com.codingdojo.week3.daikichiroutes;
+package com.lisa.week3.daikichiPathVariables;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApplicationTests {
+class DaikichiPathVariablesApplicationTests {
 
 	@Test
 	void contextLoads() {
